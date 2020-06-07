@@ -54,8 +54,8 @@ Client's arguments list:
 ```
 
 ## Screenshots
-![screenshot](https://github.com/OBerger96/calculator-clients-server/blob/master/images/calculator-clients-server0.jpeg)
-![screenshot](https://github.com/OBerger96/calculator-clients-server/blob/master/images/calculator-clients-server1.jpeg)
+![screenshot](https://github.com/noalecohen1/Calculator-Multiple-Clients-Server/blob/master/images/calculator-clients-server0.jpeg)
+![screenshot](https://github.com/noalecohen1/Calculator-Multiple-Clients-Server/blob/master/images/calculator-clients-server1.jpeg)
 
 ## Author
-* **Omer Berger** - [calculator-multiple-clients-server](https://github.com/OBerger96/calculator-multiple-clients-server)
+* **Noa Cohen** - [calculator-multiple-clients-server](https://github.com/noalecohen1/Calculator-Multiple-Clients-Server)
