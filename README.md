@@ -58,4 +58,4 @@ Client's arguments list:
 ![screenshot](https://github.com/noalecohen1/Calculator-Multiple-Clients-Server/blob/master/images/calculator-clients-server1.jpeg)
 
 ## Author
-* **Noa Cohen** - [calculator-multiple-clients-server](https://github.com/noalecohen1/Calculator-Multiple-Clients-Server)
+* **Noa Cohen** - [Calculator-Multiple-Clients-Server](https://github.com/noalecohen1/Calculator-Multiple-Clients-Server)
