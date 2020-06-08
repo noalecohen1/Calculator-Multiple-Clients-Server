@@ -10,7 +10,7 @@ Simple command line calculator using only system calls and signals in Linux. Eac
 Copy the project to a local directory:
 Clone with SSH 
 ```
-git@github.com:noalecohen1/calculator-clients-server.git
+git@github.com:noalecohen1/Calculator-Multiple-Clients-Server.git
 ```
 Clone with HTTPS
 ```
