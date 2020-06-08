@@ -14,7 +14,7 @@ git@github.com:noalecohen1/calculator-clients-server.git
 ```
 Clone with HTTPS
 ```
-https://github.com/noalecohen1/calculator-clients-server.git
+https://github.com/noalecohen1/Calculator-Multiple-Clients-Server.git
 ```
 
 ## To Run the project
